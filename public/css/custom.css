@@ -1,0 +1,87 @@
+.navbar{
+    background-color: #59BAD0;
+    color: #FFF;
+}
+
+.navbar a{
+    color: #FFF !important;
+}
+
+
+.open a{
+    color: #666 !important;
+}
+
+.title-header{
+    font-size: 18px;
+}
+
+.text-post{
+    height: 50px;
+}
+
+.list-post{
+    margin-top: 30px;
+}
+
+.my-session{
+    background-color: #c8ffc2;
+    text-align: right;
+}
+
+.round-img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 3px solid #DDD;
+}
+
+.round-img2{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border: 2px solid #DDD;
+}
+
+footer{
+    margin-top: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.panel-body{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.left10{
+    margin-left: 10px;
+}
+
+.right10{
+    margin-right: 10px;
+}
+
+.btn-file {
+    position: relative;
+    overflow: hidden;
+}
+.btn-file input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 100px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: none;
+    background: white;
+    cursor: inherit;
+    display: block;
+}
+
+.browse{
+    margin-top: 20px;
+}
